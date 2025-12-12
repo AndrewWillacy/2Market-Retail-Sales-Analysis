@@ -2,7 +2,7 @@
 June 2025
 
 Grade: Distinction
-#
+# Context
 
 Retail sales analysis using Tableau dashboards and business intelligence reporting
 Author: Andrew Willacy
