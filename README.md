@@ -1,7 +1,7 @@
 # 2Market-Retail-Sales-Analysis
-# June 2025
-# Grade: Distinction
-
+June 2025
+Grade: Distinction
+#
 
 Retail sales analysis using Tableau dashboards and business intelligence reporting
 Author: Andrew Willacy
