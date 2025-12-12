@@ -10,15 +10,10 @@ Tools Used: Excel, SQL (PostgreSQL), Tableau, PowerPoint
 The purpose of this analytics project is to help the business understand:
 
 Who their customers are (demographics)
-
 Which product categories generate the most revenue
-
 How demographics influence purchasing patterns
-
 Which advertising channels are most effective
-
 How customer behaviour varies by geography
-
 This project follows the IDEAL analytical framework (Bransford & Stein, 1984) and provides insights + recommendations to support strategic decision-making.
 
 🎯 Key Business Questions
