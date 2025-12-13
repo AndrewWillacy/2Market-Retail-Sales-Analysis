@@ -20,7 +20,7 @@ The purpose of this analytics project is to help the business understand:
 - Which advertising channels are most effective
 
 - How customer behaviour varies by geography
-<img width="900" height="500" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
+<img width="750" height="450" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
 
 
 # Data Cleaning & Preparation (Excel)
@@ -50,7 +50,7 @@ Marketing_Data
 Includes demographics, purchase details, and customer behaviour metrics such as:
 Age, Income, Total_Spend, Education, Marital_Status, Country, Kids/Teens, product category spend, and more.
 
-<img width="600" height="175" alt="Screenshot 2025-12-13 151717" src="https://github.com/user-attachments/assets/fc31ca9c-3dba-44e6-b499-d2c689e799ee" />
+<img width="600" height="300" alt="Screenshot 2025-12-13 151717" src="https://github.com/user-attachments/assets/fc31ca9c-3dba-44e6-b499-d2c689e799ee" />
 
 ad_data
 
