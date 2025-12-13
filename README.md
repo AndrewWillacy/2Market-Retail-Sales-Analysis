@@ -117,7 +117,7 @@ Figure 4: Tableau Dashboard
 The design uses a calm blue palette with clear typography to support executive-level presentations.
 
 # Key Insights
-Customer Demographics
+#### Customer Demographics
 
 Customer ages range from 28 to 84, average age 55
 
@@ -130,7 +130,7 @@ Figure 5: Incoome by total spend
 <img width="650" height="420" alt="Screenshot 2025-12-13 135615" src="https://github.com/user-attachments/assets/45a9f51f-8882-4c0b-ad4d-1ec35ef3f1a8" />
 
 
-Product Sales
+#### Product Sales
 
 Alcohol is the top-selling category, accounting for 50% of sales
 
@@ -140,7 +140,7 @@ Vegetables and chocolate are the lowest performers
 
 This trend is consistent across most countries
 
-Geographic Insights
+#### Geographic Insights
 
 Spain: largest customer base and highest revenue
 
@@ -152,7 +152,7 @@ Figure 6: Average customer spend by country
 <img width="1000" height="670" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/b6d44b4d-d328-478a-939d-2bfd98ab2077" />
 
 
-Advertising Effectiveness
+#### Advertising Effectiveness
 
 Twitter is the most successful advertising channel overall
 
@@ -161,6 +161,10 @@ Followed by Instagram and Facebook
 Bulk email surprisingly performs well among single customers
 
 Brochure advertising is consistently the least effective
+
+Figure 7:
+<img width="1773" height="854" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/56dbb198-78d3-412b-a2fb-e2625f449d34" />
+
 
 # Recommendations
 
