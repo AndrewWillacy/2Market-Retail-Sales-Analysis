@@ -1,4 +1,4 @@
-# 2Market-Retail-Sales-Analysis
+# 2Market: Retail sales, demographic and advertising effectiveness analysis
 June 2025
 
 Grade: Distinction
