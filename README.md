@@ -107,7 +107,8 @@ The Tableau dashboard (included as .twbx) includes:
 
 - Advertising channel effectiveness summaries
 
-<img width="1632" height="1071" alt="Screenshot 2025-12-13 153958" src="https://github.com/user-attachments/assets/685b0d12-1b62-406f-95fd-34674e667c78" />
+Figure 4: Tableau Dashboard
+<img width="1200" height="750" alt="Screenshot 2025-12-13 153958" src="https://github.com/user-attachments/assets/685b0d12-1b62-406f-95fd-34674e667c78" />
 
 
 
