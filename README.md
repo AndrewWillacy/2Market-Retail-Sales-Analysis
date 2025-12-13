@@ -126,7 +126,8 @@ Majority are married or living with a partner
 Most customers have a graduate-level education or higher
 
 Figure 5:
-<img width="800" height="650" alt="Screenshot 2025-12-13 135615" src="https://github.com/user-attachments/assets/45a9f51f-8882-4c0b-ad4d-1ec35ef3f1a8" />
+
+<img width="650" height="420" alt="Screenshot 2025-12-13 135615" src="https://github.com/user-attachments/assets/45a9f51f-8882-4c0b-ad4d-1ec35ef3f1a8" />
 
 
 📌 Product Sales
@@ -147,8 +148,8 @@ Germany: highest average spend per customer
 
 Montenegro: extremely low customer count → potential market concern
 
-Figure 6: Averagre customer spend by country
-<img width="1773" height="854" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/b6d44b4d-d328-478a-939d-2bfd98ab2077" />
+Figure 6: Average customer spend by country
+<img width="1000" height="670" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/b6d44b4d-d328-478a-939d-2bfd98ab2077" />
 
 
 📌 Advertising Effectiveness
