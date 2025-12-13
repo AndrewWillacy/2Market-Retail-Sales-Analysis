@@ -20,6 +20,8 @@ The purpose of this analytics project is to help the business understand:
 - Which advertising channels are most effective
 
 - How customer behaviour varies by geography
+
+Figure 1:
 <img width="750" height="450" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
 
 
@@ -50,14 +52,15 @@ Marketing_Data
 Includes demographics, purchase details, and customer behaviour metrics such as:
 Age, Income, Total_Spend, Education, Marital_Status, Country, Kids/Teens, product category spend, and more.
 
+Figure 2: Marketing_Data Table
 <img width="900" height="600" alt="Screenshot 2025-12-13 151717" src="https://github.com/user-attachments/assets/fc31ca9c-3dba-44e6-b499-d2c689e799ee" />
-
 
 ad_data
 
 Contains binary indicators showing whether a customer was exposed to each advertising channel:
 Twitter, Instagram, Bulkmail, Facebook, Brochure
 
+Figure 3:Ad_Data Table
 <img width="900" height="300" alt="Screenshot 2025-12-13 151842" src="https://github.com/user-attachments/assets/0484f707-b2a5-4054-aeab-749ae308e73e" />
 
 
@@ -108,7 +111,7 @@ The Tableau dashboard (included as .twbx) includes:
 - Advertising channel effectiveness summaries
 
 Figure 4: Tableau Dashboard
-<img width="1200" height="750" alt="Screenshot 2025-12-13 153958" src="https://github.com/user-attachments/assets/685b0d12-1b62-406f-95fd-34674e667c78" />
+<img width="900" height="600" alt="Screenshot 2025-12-13 153958" src="https://github.com/user-attachments/assets/685b0d12-1b62-406f-95fd-34674e667c78" />
 
 
 
