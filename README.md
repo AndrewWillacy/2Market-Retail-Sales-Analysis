@@ -20,25 +20,26 @@ The purpose of this analytics project is to help the business understand:
 - Which advertising channels are most effective
 
 - How customer behaviour varies by geography
+<img width="1445" height="838" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
 
 
 # Data Cleaning & Preparation
 
 The raw CSV was imported into Excel and cleaned extensively:
 
-Standardised formatting, removed duplicates and inconsistencies
+- Standardised formatting, removed duplicates and inconsistencies
 
-Created calculated fields such as Age and Total_Spend
+- Created calculated fields such as Age and Total_Spend
 
-Cleaned date formats, removed invalid ages (124+ years)
+- Cleaned date formats, removed invalid ages (124+ years)
 
-Resolved inconsistent/erroneous labels in Marital_Status
+- Resolved inconsistent/erroneous labels in Marital_Status
 
-Identified income outliers and adjusted analysis accordingly
+- Identified income outliers and adjusted analysis accordingly
 
-Updated product category names for clarity
+- Updated product category names for clarity
 
-Imported cleaned data into PostgreSQL for analysis
+- Imported cleaned data into PostgreSQL for analysis
 
 # Database Structure
 
@@ -58,19 +59,19 @@ Twitter, Instagram, Bulkmail, Facebook, Brochure
 
 SQL was used to:
 
-Calculate revenue by country
+- Calculate revenue by country
 
-Identify top product categories globally and by country
+- Identify top product categories globally and by country
 
-Analyse purchasing behaviour across demographics
+- Analyse purchasing behaviour across demographics
 
-Evaluate which advertising methods drive the most successful customer responses
+- Evaluate which advertising methods drive the most successful customer responses
 
-Combine exposure + conversion metrics to determine channel effectiveness
+- Combine exposure + conversion metrics to determine channel effectiveness
 
-Segment customers by marital status and presence of children/teens
+- Segment customers by marital status and presence of children/teens
 
-Assign customers a simplified Media label for deeper spend comparisons
+- Assign customers a simplified Media label for deeper spend comparisons
 
 Example SQL tasks included:
 
