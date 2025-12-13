@@ -11,15 +11,15 @@ Tools Used: Excel, SQL (PostgreSQL), Tableau, PowerPoint
 2Market is a global supermarket chain operating in eight countries with both physical and online storefronts.
 The purpose of this analytics project is to help the business understand:
 
-- Who their customers are (demographics)
+- Who are their customers (demographics: age, marital status etc)
 
-Which product categories generate the most revenue
+- Which product categories generate the most revenue
 
-How demographics influence purchasing patterns
+- How demographics influence purchasing patterns
 
-Which advertising channels are most effective
+- Which advertising channels are most effective
 
-How customer behaviour varies by geography
+- How customer behaviour varies by geography
 
 
 # Data Cleaning & Preparation
