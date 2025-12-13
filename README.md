@@ -58,7 +58,7 @@ ad_data
 Contains binary indicators showing whether a customer was exposed to each advertising channel:
 Twitter, Instagram, Bulkmail, Facebook, Brochure
 
-<img width="800" height="450" alt="Screenshot 2025-12-13 151842" src="https://github.com/user-attachments/assets/0484f707-b2a5-4054-aeab-749ae308e73e" />
+<img width="900" height="300" alt="Screenshot 2025-12-13 151842" src="https://github.com/user-attachments/assets/0484f707-b2a5-4054-aeab-749ae308e73e" />
 
 
 # Analytical Approach (SQL)
