@@ -83,7 +83,9 @@ Example SQL tasks included:
 
 Use of GREATEST() and LEAST() to identify best/worst performing product categories and ad channels
 
-Multi-table joins using (INNERJOIN) to combine demographic and advertising data
+Multi-table joins using (INNER JOIN) to combine demographic and advertising data
+
+GROUPBY to group results such as by marital status or country 
 
 CASE logic for categorising customers
 
@@ -93,17 +95,22 @@ Aggregations to compute spend patterns, averages, and customer counts
 
 The Tableau dashboard (included as .twbx) includes:
 
-Customer age distribution
+- Customer age distribution
 
-Marital status & education breakdowns
+- Marital status & education breakdowns
 
-Income distributions
+- Income distributions
 
-Geographic map of customer locations & density
+- Geographic map of customer locations & density
 
-Revenue and product category performance
+- Revenue and product category performance
 
-Advertising channel effectiveness summaries
+- Advertising channel effectiveness summaries
+
+<img width="1632" height="1071" alt="Screenshot 2025-12-13 153958" src="https://github.com/user-attachments/assets/685b0d12-1b62-406f-95fd-34674e667c78" />
+
+
+
 
 The design uses a calm blue palette with clear typography to support executive-level presentations.
 
