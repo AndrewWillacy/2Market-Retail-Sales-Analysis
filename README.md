@@ -165,7 +165,7 @@ Brochure advertising is consistently the least effective
 
 Figure 7: Advertising channel effectiveness
 
-<img width="600" height="310" alt="Screenshot 2025-12-13 135545" src="https://github.com/user-attachments/assets/a7fd352c-f419-4159-9aa8-b9e4c540dded" />
+<img width="650" height="310" alt="Screenshot 2025-12-13 135545" src="https://github.com/user-attachments/assets/a7fd352c-f419-4159-9aa8-b9e4c540dded" />
 
 
 # Recommendations
