@@ -21,7 +21,7 @@ The purpose of this analytics project is to help the business understand:
 
 - How customer behaviour varies by geography
 
-Figure 1:
+Figure 1: The number of customers by country
 
 <img width="750" height="450" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
 
