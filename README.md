@@ -8,7 +8,7 @@ Retail sales analysis using Tableau dashboards and business intelligence reporti
 Date: June 2025
 Tools Used: Excel, SQL (PostgreSQL), Tableau, PowerPoint
 
-2Market is a global supermarket chain operating in eight countries with both physical and online storefronts.
+2Market is a (fictional) global supermarket chain operating in eight countries with both physical and online storefronts.
 The purpose of this analytics project is to help the business understand:
 
 - Who are their customers (demographics: age, marital status etc)
@@ -23,7 +23,7 @@ The purpose of this analytics project is to help the business understand:
 <img width="900" height="500" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
 
 
-# Data Cleaning & Preparation
+# Data Cleaning & Preparation (Excel)
 
 The raw CSV was imported into Excel and cleaned extensively:
 
@@ -49,11 +49,14 @@ Marketing_Data
 
 Includes demographics, purchase details, and customer behaviour metrics such as:
 Age, Income, Total_Spend, Education, Marital_Status, Country, Kids/Teens, product category spend, and more.
+<img width="600" height="175" alt="Screenshot 2025-12-13 151717" src="https://github.com/user-attachments/assets/fc31ca9c-3dba-44e6-b499-d2c689e799ee" />
 
 ad_data
 
 Contains binary indicators showing whether a customer was exposed to each advertising channel:
 Twitter, Instagram, Bulkmail, Facebook, Brochure
+<img width="800" height="450" alt="Screenshot 2025-12-13 151842" src="https://github.com/user-attachments/assets/0484f707-b2a5-4054-aeab-749ae308e73e" />
+
 
 # Analytical Approach (SQL)
 
@@ -77,7 +80,7 @@ Example SQL tasks included:
 
 Use of GREATEST() and LEAST() to identify best/worst performing product categories and ad channels
 
-Multi-table joins to combine demographic and advertising data
+Multi-table joins using (INNERJOIN) to combine demographic and advertising data
 
 CASE logic for categorising customers
 
