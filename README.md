@@ -23,7 +23,7 @@ How customer behaviour varies by geography
 
 This project follows the IDEAL analytical framework (Bransford & Stein, 1984) and provides insights + recommendations to support strategic decision-making.
 
-🎯 Key Business Questions
+# Key Business Questions
 
 What are the demographic characteristics of 2Market’s customers?
 
@@ -58,7 +58,7 @@ Updated product category names for clarity
 
 Imported cleaned data into PostgreSQL for analysis
 
-🗄️ Database Structure
+# Database Structure
 
 The project uses two PostgreSQL tables:
 
@@ -72,7 +72,7 @@ ad_data
 Contains binary indicators showing whether a customer was exposed to each advertising channel:
 Twitter, Instagram, Bulkmail, Facebook, Brochure
 
-🧮 Analytical Approach (SQL)
+# Analytical Approach (SQL)
 
 SQL was used to:
 
@@ -100,7 +100,7 @@ CASE logic for categorising customers
 
 Aggregations to compute spend patterns, averages, and customer counts
 
-📊 Tableau Dashboard
+# Tableau Dashboard
 
 The Tableau dashboard (included as .twbx) includes:
 
@@ -118,7 +118,7 @@ Advertising channel effectiveness summaries
 
 The design uses a calm blue palette with clear typography to support executive-level presentations.
 
-🔍 Key Insights
+# Key Insights
 📌 Customer Demographics
 
 Customer ages range from 28 to 84, average age 55
@@ -155,7 +155,7 @@ Bulk email surprisingly performs well among single customers
 
 Brochure advertising is consistently the least effective
 
-💡 Recommendations
+# Recommendations
 
 Increase inventory in high-revenue categories like Alcohol and Meat
 
