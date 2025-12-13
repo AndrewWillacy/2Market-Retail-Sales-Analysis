@@ -49,12 +49,14 @@ Marketing_Data
 
 Includes demographics, purchase details, and customer behaviour metrics such as:
 Age, Income, Total_Spend, Education, Marital_Status, Country, Kids/Teens, product category spend, and more.
+
 <img width="600" height="175" alt="Screenshot 2025-12-13 151717" src="https://github.com/user-attachments/assets/fc31ca9c-3dba-44e6-b499-d2c689e799ee" />
 
 ad_data
 
 Contains binary indicators showing whether a customer was exposed to each advertising channel:
 Twitter, Instagram, Bulkmail, Facebook, Brochure
+
 <img width="800" height="450" alt="Screenshot 2025-12-13 151842" src="https://github.com/user-attachments/assets/0484f707-b2a5-4054-aeab-749ae308e73e" />
 
 
