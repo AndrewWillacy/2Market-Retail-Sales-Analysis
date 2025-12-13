@@ -2,7 +2,7 @@
 June 2025
 
 Grade: Distinction
-# Context
+# Context/Business Questions
 
 Retail sales analysis using Tableau dashboards and business intelligence reporting
 Date: June 2025
@@ -21,26 +21,8 @@ Which advertising channels are most effective
 
 How customer behaviour varies by geography
 
-This project follows the IDEAL analytical framework (Bransford & Stein, 1984) and provides insights + recommendations to support strategic decision-making.
 
-# Key Business Questions
-
-What are the demographic characteristics of 2Market’s customers?
-
-Which product categories drive the highest revenue?
-
-Do demographics such as age, marital status, or education influence spending?
-
-Which advertising methods are most effective overall and by country/marital status?
-
-How does customer behaviour differ between countries?
-
-📄 Deliverables in This Repository
-File	Description
-Andrew_Willacy_.pdf	Full technical report including methodology, analysis, SQL scripts, dashboards, and findings
-2Market_Presentationl.pdf	Executive presentation summarising insights and recommendations
-Andrew_Willacy_.twbx	Tableau dashboard packaged workbook (visual analytics)
-🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 The raw CSV was imported into Excel and cleaned extensively:
 
