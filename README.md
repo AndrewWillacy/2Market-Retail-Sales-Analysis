@@ -20,7 +20,7 @@ The purpose of this analytics project is to help the business understand:
 - Which advertising channels are most effective
 
 - How customer behaviour varies by geography
-<img width="1445" height="838" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
+<img width="900" height="500" alt="Screenshot 2025-12-13 134910" src="https://github.com/user-attachments/assets/e5d1c800-453f-48d9-80ae-5ae6a2a84731" />
 
 
 # Data Cleaning & Preparation
