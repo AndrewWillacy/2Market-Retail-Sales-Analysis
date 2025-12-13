@@ -125,6 +125,10 @@ Majority are married or living with a partner
 
 Most customers have a graduate-level education or higher
 
+Figure 5:
+<img width="1178" height="945" alt="Screenshot 2025-12-13 135615" src="https://github.com/user-attachments/assets/45a9f51f-8882-4c0b-ad4d-1ec35ef3f1a8" />
+
+
 📌 Product Sales
 
 Alcohol is the top-selling category, accounting for 50% of sales
