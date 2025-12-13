@@ -149,6 +149,7 @@ Germany: highest average spend per customer
 Montenegro: extremely low customer count → potential market concern
 
 Figure 6: Average customer spend by country
+
 <img width="650" height="400" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/b6d44b4d-d328-478a-939d-2bfd98ab2077" />
 
 
@@ -163,7 +164,8 @@ Bulk email surprisingly performs well among single customers
 Brochure advertising is consistently the least effective
 
 Figure 7:
-<img width="1200" height="600" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/56dbb198-78d3-412b-a2fb-e2625f449d34" />
+<img width="1773" height="854" alt="Screenshot 2025-12-13 135503" src="https://github.com/user-attachments/assets/ae59886e-6107-4b9b-9468-5da99ccdd3db" />
+
 
 
 # Recommendations
