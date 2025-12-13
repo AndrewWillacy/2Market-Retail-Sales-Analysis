@@ -164,7 +164,7 @@ Bulk email surprisingly performs well among single customers
 Brochure advertising is consistently the least effective
 
 Figure 7: Advertising channel effectiveness
-<img width="1000" height="575" alt="Screenshot 2025-12-13 135545" src="https://github.com/user-attachments/assets/a7fd352c-f419-4159-9aa8-b9e4c540dded" />
+<img width="800" height="420" alt="Screenshot 2025-12-13 135545" src="https://github.com/user-attachments/assets/a7fd352c-f419-4159-9aa8-b9e4c540dded" />
 
 
 
