@@ -181,3 +181,17 @@ Consider targeted bulk email campaigns for specific demographics
 Reevaluate investment in underperforming markets like Montenegro
 
 Tailor campaigns using customer segmentation by age, income, and education
+
+# Next Steps
+
+Customer Segmentation: Apply clustering techniques to identify distinct customer personas based on demographics and spending behaviour.
+
+Predictive Modelling: Build models to predict customer response to advertising campaigns and future spending patterns.
+
+Advertising Attribution: Improve ad exposure logic to correctly account for customers exposed to multiple channels.
+
+Automated Data Pipeline: Replace manual Excel cleaning with a reproducible Python-based ETL process.
+
+Enhanced Dashboards: Add drill-down views for product categories, demographics, and regional performance, including trend and forecast analysis.
+
+Statistical Validation: Apply hypothesis testing to validate differences in spend across regions and customer segments.
