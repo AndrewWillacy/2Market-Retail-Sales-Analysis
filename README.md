@@ -2,6 +2,9 @@
 June 2025
 
 Grade: Distinction
+
+Tools used: Excel, SQL (Postgres), Tableau
+
 # Context/Business Questions
 
 Retail sales analysis using Tableau dashboards and business intelligence reporting
