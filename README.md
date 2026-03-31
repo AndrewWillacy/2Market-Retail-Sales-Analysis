@@ -1,4 +1,4 @@
-# 2Market: Customer Demographics, Sales Insights and Marketing Effectivenes
+# 2Market: Customer Demographics, Sales Insights and Marketing Effectiveness
 May 2025
 
 Grade: Distinction
