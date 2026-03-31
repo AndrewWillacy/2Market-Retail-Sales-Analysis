@@ -1,4 +1,4 @@
-# 2Market: Retail sales, demographic and advertising effectiveness analysis
+# 2Market: Customer Demographics, Sales Insights and Marketing Effectivenes
 May 2025
 
 Grade: Distinction
