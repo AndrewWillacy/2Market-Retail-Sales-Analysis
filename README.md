@@ -1,4 +1,4 @@
-# 2Market: Customer Demographics, Sales Insights and Marketing Effectiveness
+# CUSTOMER BEHAVIOUR & ENGAGEMENT ANALYSIS
 May 2025
 
 Grade: Distinction
